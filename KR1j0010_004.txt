@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 羣經音辨
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-11 23:42:48.458414
+#+PROPERTY: ID KR1j0010
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB05n0591-004羣經音辨-卷四.
 <pb:KR1j0010_SBCK_004-1a>¶
 羣經音辨卷第四¶
 　　　　　臣賈昌朝撰¶
@@ -315,4 +319,3 @@
 聶北邢地也(次于聶北/尼輒切春秋)聶䐑也(禮野豕/之渉切)¶
 (而不切/爲軒皆聶)¶
 羣經音辨卷第四¶
-

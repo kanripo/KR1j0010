@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 羣經音辨
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-11 23:42:48.373950
+#+PROPERTY: ID KR1j0010
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB05n0591-002羣經音辨-卷二.
 <pb:KR1j0010_SBCK_002-1a>¶
 羣經音辨卷第二¶
 　朝奉郎尚書司封貟外郎直集賢院兼天章閣侍講輕車都¶
@@ -394,4 +398,3 @@
 團圜也(切/度官)團柩車也(車又市轉切/市專切禮團)回¶
 曲也(切/戸恢)回繞也(回梅山又如字/胡猥切春秋傳右)¶
 羣經音辨卷第二¶
-

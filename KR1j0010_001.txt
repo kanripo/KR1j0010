@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 羣經音辨
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-11 23:42:48.329426
+#+PROPERTY: ID KR1j0010
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB05n0591-001羣經音辨-卷一.
 <pb:KR1j0010_SBCK_001-1a>¶
 羣經音辨卷第一¶
 　朝奉郎尚書司封貟外郎直集賢院兼天章閣侍講輕車¶
@@ -345,4 +349,3 @@
 肅敬也(切/須逐)肅肅聲也(肅肅其羽/所六切詩)¶
 羣經音辨卷第一¶
 <pb:KR1j0010_SBCK_001-20a>¶
-

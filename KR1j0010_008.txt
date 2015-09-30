@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 羣經音辨
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-11 23:42:48.621198
+#+PROPERTY: ID KR1j0010
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB05n0591-008羣經音辨-後序.
 <pb:KR1j0010_SBCK_008-1a>¶
 羣經音辨後序¶
 　左承務郎知汀州寧化縣主管勸農公事兼兵馬監押王　觀國¶
@@ -110,4 +114,3 @@
 　武翼郎汀州邵武軍都巡撿使林　子重¶
 　左奉議郎知汀州寧化縣丞陳　汝楫¶
 　左承務郎知汀州寧化縣主管勸農公事兼兵馬監押王　觀國¶
-

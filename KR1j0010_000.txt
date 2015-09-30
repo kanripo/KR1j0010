@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 羣經音辨
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-11 23:42:48.295579
+#+PROPERTY: ID KR1j0010
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB05n0591-000羣經音辨-序.
 <pb:KR1j0010_SBCK_000-1a>¶
 中書門下　牒崇文院¶
 翰林學士丁度等劄子奏昨刊修集¶
@@ -72,4 +76,3 @@
 据音辨之作欲使學者知訓故之言¶
 咸有所自聊資稽古之論少助¶
 同文之化謹上¶
-

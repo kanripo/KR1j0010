@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 羣經音辨
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-11 23:42:48.501703
+#+PROPERTY: ID KR1j0010
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB05n0591-005羣經音辨-卷五.
 <pb:KR1j0010_SBCK_005-1a>¶
 羣經音辨卷第五¶
 　　　　臣賈昌朝撰¶
@@ -366,4 +370,3 @@
 酋(切/才秋)¶
 奠置也(切/大見)奠定也(成奠賈/音定禮展)¶
 羣經音辨卷第五¶
-

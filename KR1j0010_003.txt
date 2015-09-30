@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 羣經音辨
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-11 23:42:48.417462
+#+PROPERTY: ID KR1j0010
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB05n0591-003羣經音辨-卷三.
 <pb:KR1j0010_SBCK_003-1a>¶
 羣經音辨卷第三¶
 　朝奉郎尚書司封貟外郎直集賢院兼天章閣侍講輕車都尉賜緋¶
@@ -322,4 +326,3 @@
 羣經音辨卷第三¶
 <pb:KR1j0010_SBCK_003-20b>¶
 <pb:KR1j0010_SBCK_003-20b>¶
-

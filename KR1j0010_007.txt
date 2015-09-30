@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 羣經音辨
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-11 23:42:48.584094
+#+PROPERTY: ID KR1j0010
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB05n0591-007羣經音辨-卷七.
 <pb:KR1j0010_SBCK_007-1a>¶
 羣經音辨卷第七¶
 辨字訓得失¶
@@ -167,4 +171,3 @@
 　　蔣　延壽¶
 　　趙　士礽¶
 　　張　澄¶
-
