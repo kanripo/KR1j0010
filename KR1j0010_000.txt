@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 羣經音辨
-#+DATE: 2016-04-12 14:30:36.690772
+#+DATE: 2016-04-12 14:30:36.941460
 #+PROPERTY: ID KR1j0010
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1j0010_WYG_000-1a>¶
 　　欽定四庫全書　　　　　經部十¶
